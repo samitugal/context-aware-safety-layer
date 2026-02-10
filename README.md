@@ -181,13 +181,15 @@ For more context: https://huxai.tech/hux-research-hub/
 
 
 
-<img align="right" img width="196" height="282" alt="image" src="https://github.com/user-attachments/assets/cfd9f7a9-7563-4884-8eb0-48cc401e4d13" />
 
+<img align="right" img width="196" height="282" alt="image" src="https://github.com/user-attachments/assets/cfd9f7a9-7563-4884-8eb0-48cc401e4d13" />
 
 * Join the [Community](https://huxai.tech/community-charter/) of learners and stay ahead together!
 * [Subscribe on Luma](https://luma.com/huxai?k=c) and stay tuned for our events!
 * [Subscribe on LinkedIn](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7365810411406868483) our Newsletter!
 * [Super Study Guide: Dönüştürücüler ve Büyük Dil Modeli](https://leanpub.com/donusturuculer-buyuk-dil-modelleri)
+
+---
 
 ### Contributing
 Contributions are welcome! Please open an issue or submit a pull request if you have suggestions or improvements.
